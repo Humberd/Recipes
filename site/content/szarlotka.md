@@ -6,6 +6,11 @@ draft: false
 
 # Szarlotka
 
+<div style="display: flex; gap: 10px">
+    <img src="szarlotka/result_01.jpg" style="max-width: 400px;"/>
+    <img src="szarlotka/result_02.jpg" style="max-width: 400px;"/>
+</div>
+
 ## Składniki
 
 ### Ciasto

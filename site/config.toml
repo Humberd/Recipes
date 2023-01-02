@@ -9,3 +9,5 @@ title = "Przepisy"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 security.funcs.getenv = ["CONTEXT", "URL"]
+[markup.goldmark.renderer]
+unsafe= true
