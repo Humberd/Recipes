@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
-  "version": "2.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "My recipes",
+  "repository": "https://github.com/Humberd/Recipes",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
@@ -18,7 +18,7 @@
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
   },
-  "author": "",
+  "author": "Maciej Sawicki",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "7.20.7",
@@ -57,6 +57,6 @@
     "natives": "1.1.6"
   },
   "engines": {
-    "node": ">=16.13.0"
+    "node": "18.12.1"
   }
 }

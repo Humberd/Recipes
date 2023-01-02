@@ -1,36 +1,16 @@
-# Victor Hugo
+# My Recipes
 
-⚠️ **Deprecation Notice** 🏳
+Here I store my recipes in Polish.
 
-We are focusing our resources on building new templates that help you build a better web, because of that we're deprecating this template. We care about the community so we propose if anyone wants to maintain or take stewardship over the project please contact us at [devexperience@netlify.com](mailto:devexperience@netlify.com). If you want to share anything with the team about this template, you can also fill out [this form](https://template-feedback.netlify.app/).
+## Installation
 
-As an alternative to this repository, we're recommending to take a look at [Hyas](https://github.com/h-enk/hyas) as a project to make use of. It is focused on latest practices with Hugo and is already completely Netlify deploy ready.
-
----
-
-**A Hugo boilerplate for creating truly epic websites**
-
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack 5](https://webpack.js.org/) as your asset pipeline.
-
-Victor Hugo setup to use [PostCSS v8](http://postcss.org/) and [Babel v7](https://babeljs.io/) for CSS and JavaScript compiling/transpiling.
-
-This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
-
-## Usage
-
-### :exclamation: Prerequisites
-
-This template has been tested to work with [Node.js](https://nodejs.org/en/download/) v16 and [npm](https://www.npmjs.com/get-npm) v6.
-
-Next step, clone this repository and run:
+Node v18.12.1
 
 ```bash
-npm install
+npm ci
 ```
 
-This will take some time and will install all packages necessary to run Victor Hugo and its tasks.
-
-### :construction_worker: Development
+## Development
 
 While developing your website, use:
 
@@ -123,3 +103,7 @@ You can also click this button:
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
 
 ## Enjoy!! 😸
+
+## Mention
+
+Template generated from [Victor Hugo template](https://github.com/netlify-templates/victor-hugo)
