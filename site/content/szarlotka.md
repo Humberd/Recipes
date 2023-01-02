@@ -1,9 +1,8 @@
 ---
 title: "Szarlotka"
+date: 2023-01-02
 draft: false
 ---
-
-Source: https://slodkiblog.pl/tradycyjna-szarlotka-z-jablkami/
 
 ## Składniki
 
@@ -11,7 +10,7 @@ Source: https://slodkiblog.pl/tradycyjna-szarlotka-z-jablkami/
 
 * 320 g mąki
 * 85 g cukru pudru
-* 8 g proszku do pieczenia
+* 5 g proszku do pieczenia
 * 1 g soli
 * 140 g miękkiego masła
 * 4 żółtka
@@ -19,9 +18,12 @@ Source: https://slodkiblog.pl/tradycyjna-szarlotka-z-jablkami/
 ### Nadzienie
 
 * 1 kg jabłek
-* 10 g cynamonu
+* 5 g cynamonu
 
 ### Pianka
+
+* 4 białka
+* 80 g cukru pudru
 
 ## Przygotowanie
 
@@ -42,3 +44,7 @@ Source: https://slodkiblog.pl/tradycyjna-szarlotka-z-jablkami/
 15. Drugą część ciasta zetrzyj na tarce o grubych oczkach i rozłóż równomiernie na jabłkach.
 16. Piecz w piekarniku nagrzanym do 180°C przez 30 min (grzałka góra-dół).
 17. Po wystudzeniu posyp cukrem pudrem.
+
+### Source
+
+Source: https://slodkiblog.pl/tradycyjna-szarlotka-z-jablkami/
