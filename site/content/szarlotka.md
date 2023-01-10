@@ -24,7 +24,7 @@ draft: false
 
 ### Nadzienie
 
-* 1 kg jabłek
+* 800 g (6) jabłek
 * 5 g cynamonu
 
 ### Pianka
@@ -42,10 +42,10 @@ draft: false
 6. Wstaw blaszkę do zamrażalnika na ok. 30 min.
 7. Pozostałą część ciasta zawiń w folię spożywczą i również włóż do zamrażalnika.
 8. Jabłka obierz i zetrzyj na tarce o grubych oczkach.
-9. Odcedź z nadmiaru soku na sitku.
+9. Odcedź z nadmiaru soku na sitku tak, aby zostało ponad 200 ml soku.
 10. Posyp jabłka cynamonem i wymieszaj.
 11. Rozłóż starte jabłka na spodzie z kruchego ciasta.
-12. Białko ubij na piankę.
+12. Białko ubij na sztywną pianę.
 13. Dodawaj do pianki powoli cukier.
 14. Rozlej piankę na jabłka.
 15. Drugą część ciasta zetrzyj na tarce o grubych oczkach i rozłóż równomiernie na jabłkach.
